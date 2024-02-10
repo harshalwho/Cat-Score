@@ -1,3 +1,9 @@
-pandas
 streamlit
-datetime
+pandas
+torch
+torchvision
+numpy
+requests
+sklearn
+sentence_transformers
+transformers
